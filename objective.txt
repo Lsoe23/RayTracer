@@ -1,0 +1,12 @@
+C - Implemented a basic ray tracer w/ obj parsing
+B - Added something impressive
+C - Added something awesome (2 impressive things)
+
+Cool things:
+-Cool Shaders
+-Cool Importing (materials, animation)
+-etc
+
+OBJ parsing
+-Triangle class give is incomplete
+
